@@ -1,0 +1,36 @@
+/* h3 {
+  color: #1dc4c4;
+}
+
+h2 {
+	color: green;
+}
+
+p {
+	color: rgb(167, 6, 73);
+} */
+.Maryvis-class {
+	color: chocolate;
+}
+.Natalia-class {
+	font-size: large;
+
+}
+
+p,
+ul,
+ol {
+	font-size: 20px;
+	color: brown;
+}
+
+h2 {
+	font-family: 'Ephesis', cursive;
+	font-size: 50px;
+	height: 3px;
+}
+
+h3 {
+	font-family: 'Quicksand', sans-serif;
+	font-size: 25px;
+}
