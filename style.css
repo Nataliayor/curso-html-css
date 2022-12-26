@@ -34,3 +34,9 @@ h3 {
 	font-family: 'Quicksand', sans-serif;
 	font-size: 25px;
 }
+.imagen-de-gatos {
+	width: 200px;
+	border-width: 10px;
+	border-color: pink;
+	border-style: groove dotted dashed solid;
+}
