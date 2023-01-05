@@ -1,0 +1,10 @@
+.contenedor-tabla{
+
+    margin: 10px;
+    padding: 10px;
+    border: 2px orange solid;
+}
+
+.letra-pequena{
+    font-size: small;
+}
