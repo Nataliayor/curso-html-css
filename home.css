@@ -1,0 +1,15 @@
+.encabezado {
+	background-color: blue;
+	height: 200px;
+}
+
+
+.titulo {
+	background-color: cyan;
+	height: 100px;	
+}
+
+.cuerpo {
+	background-color: orange;
+	height: 600px;
+}
